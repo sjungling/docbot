@@ -1,4 +1,1 @@
-# docbot
-
-testing
-mergable
+# DocBot is alive!
