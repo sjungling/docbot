@@ -1,5 +1,5 @@
 # docbot
 
-testing
-mergable
-asfdasdf
+* Cat
+* Dog
+* Mouse
