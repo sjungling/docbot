@@ -1,1 +1,2 @@
 This should not auto-merge
+invalid commit msg
