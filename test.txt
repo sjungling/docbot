@@ -1,2 +1,2 @@
 This should not auto-merge
-invalid commit msg
+valid commit msg
