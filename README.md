@@ -1,5 +1,4 @@
 # docbot
 
 testing
-mergable
 asdfasdf
