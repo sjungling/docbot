@@ -1,3 +1,5 @@
 {
- "plugins": ["auto_merge", "commit_msg_validator"]
+ "plugins": ["auto_merge", "commit_msg_validator"],
+ "auto_merge": {
+  "extensions": ["md"]
  }
