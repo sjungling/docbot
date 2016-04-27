@@ -1,0 +1,3 @@
+{
+  plugins: ['automerge', 'commit_msg_validator']
+}
