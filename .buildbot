@@ -1,10 +1,10 @@
 {
- "plugins": ["auto_merge", "commit_msg_validator"],
- "auto_merge": {
-  "extensions": ["md","txt"]
- },
- "commit_msg_validator": {
-  "target_url": "https://github.com/buildcom/build-cloud/blob/master/.github/CONTRIBUTING.md#commit-messages",
-  "message_pattern": "^[ids|plat|it|db|omc|nat]+-\d+\s?\w+"
- }
+	"plugins": ["auto_merge", "commit_msg_validator"],
+	"auto_merge": {
+		"extensions": ["md", "txt"]
+	},
+	"commit_msg_validator": {
+		"target_url": "https://github.com/buildcom/build-cloud/blob/master/.github/CONTRIBUTING.md#commit-messages",
+		"message_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
+	}
 }
