@@ -8,6 +8,6 @@
 		"message_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
 	},
 	"pull_request_title_validator": {
-		"message_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
+		"title_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
 	}
 }
