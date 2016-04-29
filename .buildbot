@@ -1,0 +1,13 @@
+{
+	"plugins": ["auto_publish"],
+	"auto_merge": {
+		"extensions": ["md", "txt"]
+	},
+	"commit_msg_validator": {
+		"target_url": "https://github.com/buildcom/build-cloud/blob/master/.github/CONTRIBUTING.md#commit-messages",
+		"message_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
+	},
+	"pull_request_title_validator": {
+		"title_pattern": "^[ids|plat|it|db|omc|nat]+-\\d+\\s?\\w+"
+	}
+}
