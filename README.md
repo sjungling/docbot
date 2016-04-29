@@ -1,8 +1,3 @@
-# docbot
+# DocBot is alive!
 
-testing
-asdfasdf
-fixing it
-adsf
-asdf
-asdfasdf
+Testing Documentation
