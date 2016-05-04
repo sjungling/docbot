@@ -1,5 +1,5 @@
 {
-	"plugins": ["auto_publish","commit_msg_validator","pull_request_title_validator","auto_merge"],
+	"plugins": ["auto_merge"],
 	"auto_merge": {
 		"extensions": ["md", "txt"]
 	},
